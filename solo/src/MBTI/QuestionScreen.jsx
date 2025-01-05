@@ -36,7 +36,7 @@ function QuestionScreen() {
             // alert(`테스트 완료! E: ${answers.E}, J: ${answers.J}`);
             // console.log('E:', answers.E);
             // console.log('J:', answers.J);
-            setIsFinished(true); // 모든 질문이 끝났으면 결과 화면으로 넘어감
+            setIsFinished(true); // 모든 질문이 끝났으면 결과 화면으로 넘어감 확인
         }
     };
 
